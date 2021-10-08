@@ -1,16 +1,19 @@
-### Hi there 👋
+<style>
+    *{
+        font-family: consolas;
+    }
+    #pic {
+        width: 300px;
+        
+    }
+</style>
 
-<!--
-**AbogeJr/AbogeJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### &lt;Hello World/&gt;
 
-Here are some ideas to get you started:
+<!-- Image Here -->
+<!-- <p align="center">
+<img id="pic" src="kai.png">
+</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- My Name is Aloys Aboge Jr. I'm A 2nd year CS Major at Kabarak University in Kenya.
+I am a tech enthusiast who loves to code.   -->
