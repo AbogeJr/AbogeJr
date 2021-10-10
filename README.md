@@ -54,4 +54,3 @@ Alongside Web Development, I am learning Object Oriented Programming in C++, and
 <hr id="line">
 
 [![Aboge Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbogeJr&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-
