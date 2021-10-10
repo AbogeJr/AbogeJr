@@ -68,6 +68,6 @@ I aspire to become a full-stack developer.
 <hr>
 
 ##### Get in touch:
-<a href="https://www.linkedin.com/in/aloys-aboge-jr-0a28141b9/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="junioraboge@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://twitter.com/A__dot__J">![Twitter](https://img.shields.io/badge/@A__dot__J-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/aloys-aboge-jr-0a28141b9/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://mail.google.com/mail/junoraboge@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://twitter.com/A__dot__J">![Twitter](https://img.shields.io/badge/@A__dot__J-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 
