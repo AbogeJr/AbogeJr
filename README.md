@@ -61,7 +61,7 @@ I aspire to become a full-stack developer.
 
 <div align="center">
 
-[![Aboge Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbogeJr&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Aboge Jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbogeJr&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>   
 
