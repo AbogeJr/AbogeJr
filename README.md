@@ -1,39 +1,4 @@
-<!-- <style>
-    *{
-        font-family: consolas;
-    }
-    #about {
-        text-align: justify;
-        padding: 5px;
-        /* background: yellow; */
-    }
-    #pic {
-        width: 25vw; 
-    }
-    #bitmoji {
-        border: 1px solid black;
-        position: relative;
-        margin: 10px;
-        margin-bottom: 20px;
-    }
-    #bitmoji-shadow {
-        position: absolute;
-        top: 15px;
-        left: 15px;
-        right: -15px;
-        bottom: -15px;
-        background: rgb(255, 232, 10, 1);
-        border: 1px solid black;
-        z-index: -10;
-    }
-    #line {
-        height: 0.1px;
-        border: none;
-        /* background: black; */
-    }
-</style>
- -->
-### &lt; Hello World /&gt;
+### &lt; Hello World ! /&gt;
 
 
 <div id="bitmoji" align="center">
@@ -42,10 +7,10 @@
 </div>
 
 <p style="font-family:consolas;" id="about">
-I'm Aloys Aboge Junior. A self-taught Web Developer and 2nd year student taking Computer Science at <a href="https://kabarak.ac.ke">Kabarak University</a>.<br>
-I am currently learning Full-Stack Web Development. Feel free to check out some of my projects in my <a href="https://github.com/AbogeJr/WebDev">WebDev</a> repository🙂.<br>
-Alongside Web Development, I am learning Object Oriented Programming in C++, and Data Structures and Algorithms in C and C++.<br>
-I aspire to become a full-stack developer.   
+Hey, I'm Aloys. A Web Developer and 2nd year student taking Computer Science at <a href="https://kabarak.ac.ke">Kabarak University</a>(Kenya).<br>
+I am currently learning Full-Stack Web Development.<br>
+Feel free to check out(and fork, hopefully) my projects🙂.<br>
+I aspire to be a full-stack developer one day.   
 </p>
 <hr id="line">
 
