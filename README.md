@@ -2,7 +2,7 @@
 ### I'm Aloys.
 
 - 🔭 I’m currently working on *[classified information]*
-- 🌱 I’m learning software engineering @ALX Back-End Web Development && Cloud Computing
+- 🌱 I’m learning software engineering @ALX-Holberton School, Full Stack Web Development && Cloud Computing
 - 💬 Ask me about Computers and Sitcoms
 - 📫 How to reach me: junioraboge@gmail.com
 - ⚡ Fun fact: The Eiffel Tower can be 15 cm taller during the summer, due to thermal expansion meaning the iron heats up, the particles gain kinetic energy and take up more space.
