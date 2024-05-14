@@ -1,7 +1,4 @@
-## Hello World!
-### I'm Aloys.
-
-- 🔭 I’m currently working on *[classified information]*
-- 🌱 I’m learning software engineering @ALX-Holberton School, Full Stack Web Development && Cloud Computing
-- 💬 Ask me about Computers!
-- 📫 How to reach me: junioraboge@gmail.com
+# Hello World! I'm Aloys.
+### I am a Software Engineer who dabbles in multiple technologies; mostly Web & Mobile.
+Website => https://aboge.netlify.app <br>
+Reach out => junioraboge@gmail.com
