@@ -1,9 +1,7 @@
 ### Hello World👋🏾. I'm Aloys.
 ![matrix](matrix.jpg)
 ***
-https://aboge.netlify.app
-***
-Currently building solutions @Yashio Kenya
+Currently building solutions @ [Yashio Kenya](https://ke.linkedin.com/company/yashio-kenya)
 ***
 Areas of interest
 - Web
